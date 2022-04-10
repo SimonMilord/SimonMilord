@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e470hgb8pco05ipexec5u5e21smwwhja0lfiini3wz6&rid=giphy.gif&ct=s" width="200"/>
+</div>
+
 <h1 align="center">Hello world, I'm Simon</h1>
 <h3 align="center">A CFA charterholder and former investment advisor turned software developer</h3>
 
