@@ -14,7 +14,7 @@
 <h3>🚀 About me:</h3> 
 🎓 I'm a Full Stack Web Developer graduate from Brainstation Web Development Bootcamp  
   
-- 💬 Ask me about [My latest project: Stonkers](https://github.com/SimonMilord/Capstone-Project)  
+- 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)  
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
@@ -37,5 +37,4 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="sass" width="40" height="40"/> </a>
 </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmilord&show_icons=true&locale=en&layout=compact" alt="simonmilord" /></p>
