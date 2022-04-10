@@ -1,10 +1,8 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e470hgb8pco05ipexec5u5e21smwwhja0lfiini3wz6&rid=giphy.gif&ct=s" width="200"/>
 </div>
-
 <h1 align="center">Hello world, I'm Simon</h1>
 <h3 align="center">A CFA charterholder and former investment advisor turned software developer</h3>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/simonmilord/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,18 +11,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<br>
-<h3>🚀 About me:</h3>
-  🎓 I'm a <strong>Full Stack Web Developer</strong> graduate from Brainstation Web Development Bootcamp  
+<h3>🚀 About me:</h3> 
+🎓 I'm a Full Stack Web Developer graduate from Brainstation Web Development Bootcamp  
   
-  💬 Ask me about [My latest project: Stonkers](https://github.com/SimonMilord/Capstone-Project)  
+- 💬 Ask me about [My latest project: Stonkers](https://github.com/SimonMilord/Capstone-Project)  
 
-  📫 How to reach me **simon.milord@gmail.com**
+- :mailbox: How to reach me **simon.milord@gmail.com**
 
-  ⚡ Fun fact I like: ✈️ 🏒 🎮 🏀 🧩 📈 📖
+- :zap: Fun fact I like: ✈️ 🏒 🎮 🏀 🧩 📈 📖
 <br>
 <br>
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
