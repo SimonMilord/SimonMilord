@@ -16,7 +16,7 @@
   
 - 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)
 
-- 👨‍💻 You can see my work [here:](https://simonmilord.com/) 
+- 👨‍💻 You can see my work [here](https://simonmilord.com/) 
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
