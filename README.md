@@ -14,7 +14,9 @@
 <h3>🚀 About me:</h3> 
 🎓 I'm a Full Stack Web Developer graduate from Brainstation Web Development Bootcamp  
   
-- 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)  
+- 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)
+
+- 👨‍💻 You can see my work [here:](https://simonmilord.com/) 
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
