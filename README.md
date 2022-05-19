@@ -18,6 +18,8 @@
 
 - 🚀 You can see my work [here](https://simonmilord.com/) 
 
+- 📖 Currently learning: Jest and React Testing library
+
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
 - :zap: Fun fact I like: ✈️ 🏒 🎮 🏀 🧩 📈 📖
