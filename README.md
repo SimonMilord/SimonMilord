@@ -18,7 +18,7 @@
 
 - 🚀 You can see my work [here](https://simonmilord.com/) 
 
-- 📖 Currently learning: Jest and React Testing library
+- 📖 Currently learning: Jest, React Testing library and TypeScript!
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
