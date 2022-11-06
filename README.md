@@ -12,7 +12,7 @@
   </a>
 </div>
 <h3>About me</h3> 
-🎓 I'm a Full Stack Web Developer graduate from Brainstation Web Development Bootcamp  
+🎓 I'm a Software Developer graduate from Brainstation Web Development Bootcamp, currently interning at Coveo!
   
 - 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)
 
