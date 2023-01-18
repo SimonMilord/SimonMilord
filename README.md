@@ -18,7 +18,7 @@
 
 - 🚀 You can see my work [here](https://simonmilord.com/) 
 
-- 📖 Currently learning: Jest, React Testing library and TypeScript!
+- 📖 Currently learning: Testing, TypeScript, LWC and Salesforce!
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
