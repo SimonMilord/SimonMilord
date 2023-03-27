@@ -12,13 +12,13 @@
   </a>
 </div>
 <h3>About me</h3> 
-🎓 I'm a Software Developer graduate from Brainstation Web Development Bootcamp, currently interning at Coveo!
+I recently changed changed careers from Finance to Software Development and I am currently working as a Software Developer at Coveo!
   
 - 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)
 
 - 🚀 You can see my work [here](https://simonmilord.com/) 
 
-- 📖 Currently learning: Testing, TypeScript, LWC and Salesforce!
+- 📖 Currently learning: Testing, TypeScript, LWC and Apex!
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
