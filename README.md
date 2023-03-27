@@ -7,12 +7,11 @@
   <a href="https://www.linkedin.com/in/simonmilord/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/SimonMilord">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <h3>About me</h3> 
-I recently changed changed careers from Finance to Software Development and I am currently working as a Software Developer at Coveo!
+I recently changed careers from Finance to Software Development and I am currently working as a Software Developer @ Coveo!
+<br>
+<br>
   
 - 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)
 
@@ -24,7 +23,11 @@ I recently changed changed careers from Finance to Software Development and I am
 
 - :zap: Fun fact I like: ✈️ 🏒 🎮 🏀 🧩 📈 📖
 <br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmilord&show_icons=true&locale=en&layout=compact" alt="simonmilord" /></p>
+
 <br>
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
@@ -41,5 +44,5 @@ I recently changed changed careers from Finance to Software Development and I am
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://developer.salesforce.com/docs" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40"/> </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonmilord&show_icons=true&locale=en&layout=compact" alt="simonmilord" /></p>
