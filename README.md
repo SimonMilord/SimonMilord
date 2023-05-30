@@ -17,7 +17,7 @@ I recently changed careers from Finance to Software Development and I am current
 
 - 🚀 You can see my work [here](https://simonmilord.com/) 
 
-- 📖 Currently learning: Testing, TypeScript, LWC and Apex!
+- 📖 Currently learning: LWC and Apex!
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
