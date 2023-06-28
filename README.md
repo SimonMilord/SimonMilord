@@ -13,11 +13,11 @@ I recently changed careers from Finance to Software Development and I am current
 <br>
 <br>
   
-- 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/Capstone-Project)
+- 💬 Ask me about my latest project: BookHive
 
 - 🚀 You can see my work [here](https://simonmilord.com/) 
 
-- 📖 Currently learning: LWC and Apex!
+- 📖 Currently learning: LWC, Apex and PostgreSQL!
 
 - :mailbox: How to reach me **simon.milord@gmail.com**
 
