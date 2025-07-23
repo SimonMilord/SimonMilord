@@ -1,31 +1,53 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e470hgb8pco05ipexec5u5e21smwwhja0lfiini3wz6&rid=giphy.gif&ct=s" width="200"/>
 </div>
-<h1 align="center">Hello world, I'm Simon</h1>
-<h3 align="center">CFA charterholder and former investment advisor turned software developer</h3>
-<div id="badges" align="center">
+
+<h1 align="center">Hi, I'm Simon 👋</h1>
+<h3 align="center">CFA Charterholder | Former Investment Advisor | Software Developer @ Coveo</h3>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/simonmilord/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
-<h3>About me</h3> 
-I am currently working as a Software Developer @ Coveo!
-<br>
-<br>
-  
-- 💬 Ask me about my latest project: BookHive
+  <a href="mailto:simon.milord@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://simonmilord.com/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+  </a>
+</p>
 
-- 🚀 You can see my work [here](https://simonmilord.com/) 
+---
 
-- 📖 Currently learning: LWC, Apex and PostgreSQL!
+### 🧑‍💻 About Me
+I’m passionate about leveraging technology to solve real-world problems. After earning my CFA charter and working as an investment advisor, I pivoted into software development—currently building cool things at Coveo.
 
-- :mailbox: How to reach me **simon.milord@gmail.com**
+- 💬 Ask me about my latest project: [Stonkers](https://github.com/SimonMilord/stonkers.ai)
+- 🚀 Check out my [portfolio](https://simonmilord.com/)
+- 📚 Currently learning: ML, backend stuff and much more!
+- ✉️ Reach me at [simon.milord@gmail.com](mailto:simon.milord@gmail.com)
+- 🏒 Fun fact: I love hockey, travel, cooking and reading!
 
-- :zap: Fun fact I like: ✈️ 🏒 🎮 🏀 🧩 📈 📖
+---
 
-<br>
+### 🌟 Featured Projects
+| Project | Description | Tech |
+| ------- | ----------- | ---- |
+| [BookHive](https://github.com/SimonMilord/BookHive) | A community platform for book lovers | React, Chakra, Node.js, PostgreSQL |
+| [Stonkers](https://github.com/SimonMilord/Stonkers.ai) | A platform to help analyze stocks potential investments | Typescript, React |
+| [Portfolio Site](https://simonmilord.com/) | My personal site, showcasing my work | React |
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimonMilord&show_icons=true&theme=radical" alt="Simon’s GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimonMilord&theme=radical" alt="Simon’s GitHub Streak"/>
+</p>
+
+---
+
+<h3 align="left">🛠️ Skills & Tools:</h3>
   <h4 align="left">Front-End:</h4>
     <p align="left">
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -55,3 +77,22 @@ I am currently working as a Software Developer @ Coveo!
       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
       <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/> </a>
     </p>
+
+---
+
+### 🎓 Certifications & Education
+- Brainstation Web Development Diploma
+- Machine Learning Specialization [Certificate](https://www.coursera.org/account/accomplishments/specialization/918RADBMTZBC), DeepLearning.Ai
+- CFA Charterholder
+- B.Comm. Quantitative Finance, HEC Montreal
+
+---
+
+### 📬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/simonmilord/)
+- [Portfolio](https://simonmilord.com/)
+- [Email](mailto:simon.milord@gmail.com)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SimonMilord)
