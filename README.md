@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Simon 👋</h1>
-<h3 align="center">CFA Charterholder | Former Investment Advisor | Software Developer @ Coveo</h3>
+<h3 align="center">Software Developer @ Coveo | CFA Charterholder | Part-time nerd</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simonmilord/">
